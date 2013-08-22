@@ -1,0 +1,19 @@
+{
+  "name": "Acc\u00e8sD",
+  "description": "Raccourci Acc\u00e8sD Desjardins",
+  "version": "1",
+  "manifest_version": 2,
+  "author": "Fran\u00e7ois-Xavier Lemire",
+
+
+  "app": {
+      "urls": [
+          "https://accesd.desjardins.com"
+      ],
+      "launch": {
+          "web_url": "https://accesd.desjardins.com"
+      }
+  },
+
+  "icons": { "16": "desjardins-16.png", "128": "desjardins-128.png" }
+}
